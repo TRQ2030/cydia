@@ -21,7 +21,7 @@
 		
 		<!-- About Me section start -->
 		<div class="section">
-			<h1><span> طارق </span></h1>
+			<h1><span> طاااااااااااااااررررق </span></h1>
 		<dir="rtl">
 
     <p>
@@ -33,6 +33,7 @@
 ٢-
 <br /><br />
 ٣-
+<a href="intent://stackoverflow.com/questions/29250152/what-is-the-intent-to-launch-any-website-link-in-google-chrome#Intent;scheme=http;package=com.android.chrome;end"> QR code </a>
 <br /><br />
 		</div>
 		<!-- About Me section end -->
@@ -45,7 +46,7 @@
 
 
 
-<a href="intent://stackoverflow.com/questions/29250152/what-is-the-intent-to-launch-any-website-link-in-google-chrome#Intent;scheme=http;package=com.android.chrome;end">
+
 
 
 		<!-- Contacts section end -->
