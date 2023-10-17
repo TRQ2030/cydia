@@ -21,7 +21,7 @@
 		
 		<!-- About Me section start -->
 		<div class="section">
-			<h1><span>فـــــــلــــــ هـــــــاكــــــ</span></h1>
+			<h1><span> طارق محمد</span></h1>
 		<dir="rtl">
 
     <p>
